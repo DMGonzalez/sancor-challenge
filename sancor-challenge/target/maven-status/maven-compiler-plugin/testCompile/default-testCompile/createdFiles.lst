@@ -1,0 +1,8 @@
+pageObjects/VidaPage.class
+RunCucumberTest.class
+stepsDefinitions/VidaDefinitions.class
+configuration/Iproperties.class
+pageMethods/CommonsMethods.class
+pageObjects/CommonsPage.class
+stepsDefinitions/CommonsDefinitons.class
+pageMethods/VidaMethods.class
